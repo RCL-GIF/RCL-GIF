@@ -1,4 +1,4 @@
-# Hi, I'm Reginald 👋
+# Hi, I'm Reginald 
 
 ### IT Operations • Cloud Infrastructure • Automation • AI-Enabled IT
 
